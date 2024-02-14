@@ -275,9 +275,6 @@ li.first_of_type {
   padding: 30px;
 }
 
-/* #subscribe {
-  background-color: (221, 213, 213, 0.863) s;
-} */
 
 #subscribeBtn {
   background-color: rgba(221, 213, 213, 0.863);
@@ -553,29 +550,6 @@ li.first_of_type {
   }
 }
 
-/* @media screen and (max-width: 576px) {
-  .slide-form {
-    padding: 10px;
-  }
-
-  .inti {
-    text-align: center;
-  }
-
-  .slide-form button {
-    padding: 6px 12px;
-  }
-} */
-
-/* @media screen and (max-width: 256px) {
-  .slide-form {
-    padding: 6px;
-  }
-
-  .slide-form button {
-    padding: 4px 8px;
-  }
-} */
 
 /* Contact Us-Section */
 
