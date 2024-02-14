@@ -442,6 +442,11 @@ li.first_of_type {
     padding: 15px;
   }
 
+  .signup,
+  .signup-input {
+    width: 100%;
+  }
+
   .slide-form label,
   .slide-form input,
   .slide-form button {
